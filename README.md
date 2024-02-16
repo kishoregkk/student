@@ -1,5 +1,5 @@
 # student
-Student Management System with Spring Boot MVC and Thymeleaf
+Student Management System with Spring Boot MVC
 
 Introduction
  This project is a simple student management system built using Spring Boot MVC framework with Thymeleaf as the templating engine. It provides basic functionalities to manage students such as adding, updating, deleting, and viewing student records.
